@@ -55,3 +55,7 @@ The tool for working with the emotional network Grustnogram(https://grustnogram.
 	
 #### How to use:
 	Create a database (add, upload or parse) -> send to Heart Breaker or Subscriber
+	
+	
+	
+<a href="https://www.freepik.com/free-vector/human-heart_23718780.htm#query=human%20heart&position=21&from_view=search&track=sph">Original Image by brgfx</a> on Freepik
